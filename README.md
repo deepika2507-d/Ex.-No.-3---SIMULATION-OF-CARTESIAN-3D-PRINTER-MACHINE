@@ -60,8 +60,11 @@
 
 ## Output:
 
-### Name: 
-### Register Number:
+<img width="1572" height="903" alt="Screenshot (586)" src="https://github.com/user-attachments/assets/034403c2-8815-4f97-9b5d-341c20b1065b" />
+
+### Name: Deepika.V
+### Register Number:212224240030
+
 
 ## Result: 
 ### Thus the simulation on construction of cartesian 3D printer is completed & movement of axis along X, Y, & Z has been studied.
